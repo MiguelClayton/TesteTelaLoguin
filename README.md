@@ -1,2 +1,0 @@
-# TesteTelaLoguin
-Teste de React
