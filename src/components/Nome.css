@@ -1,0 +1,41 @@
+.container-opcoes {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: -10px;
+  }
+  
+  .opcaoNome {
+    background-color: #ffffff;
+    color: #333;
+    font-size: 14px;
+    padding: 12px ;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: #000000;
+    border: 1px solid #666769;
+    width: 95%;
+    margin-top: -10px;
+  }
+  
+  .opcao:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .opcao.selecionado {
+    background-color: #0052cc;
+    color: white;
+  }
+
+  .info-text {
+    font-size: 0.8125rem;
+    color: #555;
+    margin-top: 10px;
+  }
+  .divisinha {
+    padding: 4px ;
+    width: 60px;
+  }
+  

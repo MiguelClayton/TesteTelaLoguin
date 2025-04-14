@@ -1,0 +1,25 @@
+.list{
+    display: flex;
+    list-style: none;
+}
+
+.item {
+    margin-right: 1em;
+}
+
+.botao_estilizado {
+    background-color: #0052cc;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .botao_estilizado:hover {
+    background-color: #003d99;
+  }
+  

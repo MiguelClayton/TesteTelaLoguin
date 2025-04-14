@@ -1,0 +1,44 @@
+.botao_estilizado_fim {
+    display: flex;
+    background-color: #0052cc;
+    color: white;
+    font-size: 14px;
+    padding: 9px 21px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    align-items: center;
+  }
+
+  .nsublinhado{
+    text-decoration: none;
+  }
+
+  .item_fim {
+    display: flex;
+    margin-right: 1em;
+    list-style: none;
+    align-items: center;
+}
+.titulo_fim {
+    display: flex;
+    font-size: 150px;
+    font-weight: 700px;
+    margin-bottom: 10px;
+  }
+
+  .central{
+    display: flex;
+    
+    padding: 50px;
+    justify-content:center ;
+  }
+
+  .central_titulo{
+    display: flex;
+    
+    padding: 10px;
+    justify-content:center ;
+  }
